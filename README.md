@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jimkollevik
+- 👀 I’m interested in Pizza, UX driven services, minimalism and technology in general
+- 🌱 I’m currently learning Product Management
+- 📫 How to reach me: visit https://jimkollevik.github.io
