@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jimkollevik
 - 👀 I’m interested in: Pizza, UX driven development, minimalism and technology
-- 🌱 I’m currently learning: Product Management and Python
+- 🌱 I’m currently learning: Being a leader and Python
 - 📫 How to reach me: visit <a href="https://jimkollevik.github.io" target="_blank">https://jimkollevik.github.io</a>
