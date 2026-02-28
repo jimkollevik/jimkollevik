@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jimkollevik
-- 👀 I’m interested in: cooking, data driven development, minimalism and technology
-- 🌱 I’m currently learning: Scrum & AI
+- 👀 I’m interested in: productivity, design, minimalism and technology
+- 🌱 I’m currently learning: AI & Marketing
 - 📫 How to reach me: visit <a href="https://jimkollevik.com" target="_blank">https://www.jimkollevik.com</a>
